@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80007986064",
+    "firebase_url": "https://mushroomiot-6074d.firebaseio.com",
+    "project_id": "mushroomiot-6074d",
+    "storage_bucket": "mushroomiot-6074d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80007986064:android:ad43436ecbab89f4",
+        "android_client_info": {
+          "package_name": "wanpracha.rmutsv.ac.th.mushroomiotfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80007986064-iqs59mri8mvfuaps406gnklhf0bon1q7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wanpracha.rmutsv.ac.th.mushroomiotfarm",
+            "certificate_hash": "2056d01567485c4707971f0cba721fcb68a3be41"
+          }
+        },
+        {
+          "client_id": "80007986064-82u9290g5rip6dafgb1ai78lq3abbcg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpRsYSzoCfAAGiv2JD5dm3EZMTzmMeLgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80007986064-82u9290g5rip6dafgb1ai78lq3abbcg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
